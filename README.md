@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# CodeLive
+## Online Code Editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web based Fully featured IDE and Code Saving Platform.
 
-## Available Scripts
+# Hosted Link : https://codelive.onrender.com/
 
-In the project directory, you can run:
+### Tech Stack used :
+    HTML
+    CSS
+    Javascript
+    Nodejs
+    MongoDB
+    ACE.js
 
-### `npm start`
+## Features
+- Signup and Login to store progress
+- Store code files and retrive them from homepage
+- Edit and Exceute files with/without saving 
+- Supported Languauges : C, C++, Python, Javascript
+- ### technologies
+    - HTML, CSS, Javascript, NodeJs, Express.js, MongoDB, Ace.js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# ScreenShots
+- ### Signup Menu
+    - Create a new account by unique username and a password
+    ![alt text](![alt text](https://github.com/ashok020/online-code-editor/blob/master/Screenshots/signup.png?raw=true))
+- ### Login Menu
+   - Login a Existing account by exntering username and passwor
+   - ![alt text](https://github.com/ashok020/online-code-editor/blob/master/Screenshots/login.png?raw=true)
+ - ### Homepage
+    - Here all saved code files will be shown , option to delete or create a new one.
+    - ![alt text](https://github.com/ashok020/online-code-editor/blob/master/Screenshots/home.png?raw=true)
+- ### Code Editor
+    - Feature rich code editor with customization, suggestion, 
+      excecuation with option for custom input
+    ![alt text](https://github.com/ashok020/online-code-editor/blob/master/Screenshots/editor.png?raw=true)
+    ![alt text](https://github.com/ashok020/online-code-editor/blob/master/Screenshots/editor2.png?raw=true)
+## License
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MIT
